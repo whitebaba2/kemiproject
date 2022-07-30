@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>kemiproject</h1>
+
+<?php
+echo "Hello KemiProjectGroup Dev0ps Teams";
+?>
+
+</body>
+<?html>
